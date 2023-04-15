@@ -1,0 +1,82 @@
+#
+# flutter clean && flutter pub get && flutter pub run flutter_native_splash:create --path=flutter_native_splash.yaml
+
+flutter_native_splash:
+  #
+  #
+  #
+  #
+  #
+  #
+
+  #
+  #
+  #
+  #
+  color: "#ffffff"
+  # background_image: "images/logo.png"
+
+  #
+  #
+
+  #
+  #
+  image: "assets/icons/FoodFlow.png"
+
+  #
+  #
+  # branding: "images/logo.png"
+
+  #
+  #
+  # branding_mode: bottom
+
+  #
+  #
+  #
+  #
+  #
+  # color_dark: "042a49"
+  # background_image_dark: "images/logo.png"
+  # image_dark: "images/logo.png"
+  # barnding_dark: "images/logo.png"
+
+  #
+  #
+  #
+  android_12:
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+
+  #
+  #
+
+  #
+  #
+  #
+  #
+  #
+
+  #
+  #
+  #
+  #
+  #
+
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
