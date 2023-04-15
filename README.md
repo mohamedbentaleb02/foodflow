@@ -1,16 +1,11 @@
-# pfefinal
+# Food Flow
 
-A new Flutter project.
+Food Flow app would be to provide users with a convenient, user-friendly platform that makes it easy for them to find, plan and organize meals that meet their dietary restrictions and preferences, while also taking into account their time constraints and budget.
 
-## Getting Started
+The app provides a wide range of features that cater to different user needs and preferences, such as:
 
-This project is a starting point for a Flutter application.
+A recipe search feature that allows users to search for recipes based on dietary restrictions, ingredients, cuisine, and time of preparation.
+A meal planning feature that allows users to plan and organize their meals for the week, and also generate a grocery list based on the recipes and meals planned for the week.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A feature that allows users to save their favorite recipes, create their own recipe collections and share them with others.
+A feature that allows users (Chefs) to create and share their own recipes with others.
